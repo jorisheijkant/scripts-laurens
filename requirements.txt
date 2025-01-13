@@ -2,3 +2,5 @@ ollama
 playwright
 playwright-stealth
 asyncio
+requests
+beautifulsoup4
